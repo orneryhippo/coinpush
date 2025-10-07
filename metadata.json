@@ -1,0 +1,5 @@
+{
+  "name": "Arcade Coin Pusher",
+  "description": "A vertical coin pusher gambling game with realistic physics. Players pay to operate a pusher bar, hoping coins fall into the collection bin to win money. The house has a built-in edge.",
+  "requestFramePermissions": []
+}
